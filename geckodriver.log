@@ -1,0 +1,103 @@
+1649834232474	geckodriver	INFO	Listening on 127.0.0.1:53746
+1649834235560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileoRVLDv"
+1649834236246	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileoRVLDv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53747/devtools/browser/51a5b605-b757-492f-8edc-f430e57a8016
+1649834239961	Marionette	INFO	Listening on port 53774
+Read port: 53774
+1649834240099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+1649834297468	Marionette	INFO	Stopped listening on port 53774
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649834724194	geckodriver	INFO	Listening on 127.0.0.1:53955
+1649834727273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileLTY1j6"
+1649834727977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileLTY1j6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53956/devtools/browser/8bc287e7-6029-4499-94a1-2d58d62a7320
+1649834731644	Marionette	INFO	Listening on port 53987
+Read port: 53987
+1649834731683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649834746136	Marionette	INFO	Stopped listening on port 53987
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649834941386	geckodriver	INFO	Listening on 127.0.0.1:54072
+1649834944479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileclJ6Ia"
+1649834945181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileclJ6Ia\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54073/devtools/browser/82e77ca1-c539-457f-940e-cc7f58a1e40c
+1649834949260	Marionette	INFO	Listening on port 54103
+Read port: 54103
+1649834949387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649835070877	Marionette	INFO	Stopped listening on port 54103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649836451174	geckodriver	INFO	Listening on 127.0.0.1:54678
+1649836454250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileOp9DbP"
+1649836454969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileOp9DbP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54679/devtools/browser/56375264-6702-41e5-ad35-1b036551651c
+1649836459505	Marionette	INFO	Listening on port 54710
+Read port: 54710
+1649836459587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649836486157	Marionette	INFO	Stopped listening on port 54710
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Chanconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileVs6ev1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54763/devtools/browser/cf5aa38b-3e8a-42fd-af3b-85dfe4e7f70b
+1649836487643	Marionette	INFO	Listening on port 54790
+Read port: 54790
+1649836487723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649836652192	Marionette	INFO	Stopped listening on port 54790
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofilevzCuQF"
+1649836529871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofilevzCuQF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54847/devtools/browser/95edbd3b-cf0f-4520-8806-88cf775afd50
+1649836533378	Marionette	INFO	Listening on port 54872
+Read port: 54872
+1649836533474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649836652863	Marionette	INFO	Stopped listening on port 54872
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649837026748	geckodriver	INFO	Listening on 127.0.0.1:55074
+1649837029877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileBFhTnj"
+1649837030651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileBFhTnj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55075/devtools/browser/573d4dde-9536-4e38-92d9-a76e62c7ce4f
+1649837034605	Marionette	INFO	Listening on port 55101
+Read port: 55101
+1649837034674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+1649837051742	Marionette	INFO	Stopped listening on port 55101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649837100001	geckodriver	INFO	Listening on 127.0.0.1:55145
+1649837103031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofilekl0oIT"
+1649837103569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofilekl0oIT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55146/devtools/browser/7233fa9c-bd2e-4fe6-a73f-1296e1679cd2
+1649837106843	Marionette	INFO	Listening on port 55172
+Read port: 55172
+1649837106953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://docs.google.com"
+1649837126478	Marionette	INFO	Stopped listening on port 55172
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
